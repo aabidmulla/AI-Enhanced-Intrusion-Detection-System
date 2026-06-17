@@ -225,6 +225,6 @@ The AI-Enhanced Intrusion Detection System demonstrates how Machine Learning can
 
 ## 👨‍💻 Developed By
 
-**Siddique Sanadi**
+**Abid Mulla**
 
 ---
